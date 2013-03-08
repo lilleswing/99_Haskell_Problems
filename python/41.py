@@ -1,5 +1,4 @@
 __author__ = 'karl_leswing'
-#TODO
 
 
 def is_prime(n):
